@@ -1,1 +1,0 @@
-# My PostgreSQL OLAP and OLTP Pet Projects

@@ -1,0 +1,25 @@
+{
+    "rodin_customers_cli_table": [
+        {"PutRequest": {"Item": {"customer_id": {"N": "1"}, "registration_date": {"S": "2024-09-01"}, "customer_name": {"S": "Alice Smith"}, "email": {"S": "alice.smith@example.com"}}}},
+        {"PutRequest": {"Item": {"customer_id": {"N": "2"}, "registration_date": {"S": "2024-09-02"}, "customer_name": {"S": "Bob Johnson"}, "email": {"S": "bob.johnson@example.com"}}}},
+        {"PutRequest": {"Item": {"customer_id": {"N": "3"}, "registration_date": {"S": "2024-09-03"}, "customer_name": {"S": "Carol Davis"}, "email": {"S": "carol.davis@example.com"}}}},
+        {"PutRequest": {"Item": {"customer_id": {"N": "4"}, "registration_date": {"S": "2024-09-04"}, "customer_name": {"S": "David Wilson"}, "email": {"S": "david.wilson@example.com"}}}},
+        {"PutRequest": {"Item": {"customer_id": {"N": "5"}, "registration_date": {"S": "2024-09-05"}, "customer_name": {"S": "Emma Martinez"}, "email": {"S": "emma.martinez@example.com"}}}},
+        {"PutRequest": {"Item": {"customer_id": {"N": "6"}, "registration_date": {"S": "2024-09-06"}, "customer_name": {"S": "Frank Brown"}, "email": {"S": "frank.brown@example.com"}}}},
+        {"PutRequest": {"Item": {"customer_id": {"N": "7"}, "registration_date": {"S": "2024-09-07"}, "customer_name": {"S": "Grace Lee"}, "email": {"S": "grace.lee@example.com"}}}},
+        {"PutRequest": {"Item": {"customer_id": {"N": "8"}, "registration_date": {"S": "2024-09-08"}, "customer_name": {"S": "Henry Walker"}, "email": {"S": "henry.walker@example.com"}}}},
+        {"PutRequest": {"Item": {"customer_id": {"N": "9"}, "registration_date": {"S": "2024-09-09"}, "customer_name": {"S": "Ivy Hall"}, "email": {"S": "ivy.hall@example.com"}}}},
+        {"PutRequest": {"Item": {"customer_id": {"N": "10"}, "registration_date": {"S": "2024-09-10"}, "customer_name": {"S": "Jack Young"}, "email": {"S": "jack.young@example.com"}}}},
+        {"PutRequest": {"Item": {"customer_id": {"N": "11"}, "registration_date": {"S": "2024-09-11"}, "customer_name": {"S": "Katherine Allen"}, "email": {"S": "katherine.allen@example.com"}}}},
+        {"PutRequest": {"Item": {"customer_id": {"N": "12"}, "registration_date": {"S": "2024-09-12"}, "customer_name": {"S": "Liam Wright"}, "email": {"S": "liam.wright@example.com"}}}},
+        {"PutRequest": {"Item": {"customer_id": {"N": "13"}, "registration_date": {"S": "2024-09-13"}, "customer_name": {"S": "Mia Harris"}, "email": {"S": "mia.harris@example.com"}}}},
+        {"PutRequest": {"Item": {"customer_id": {"N": "14"}, "registration_date": {"S": "2024-09-14"}, "customer_name": {"S": "Nathan Scott"}, "email": {"S": "nathan.scott@example.com"}}}},
+        {"PutRequest": {"Item": {"customer_id": {"N": "15"}, "registration_date": {"S": "2024-09-15"}, "customer_name": {"S": "Olivia King"}, "email": {"S": "olivia.king@example.com"}}}},
+        {"PutRequest": {"Item": {"customer_id": {"N": "16"}, "registration_date": {"S": "2024-09-16"}, "customer_name": {"S": "Paul Adams"}, "email": {"S": "paul.adams@example.com"}}}},
+        {"PutRequest": {"Item": {"customer_id": {"N": "17"}, "registration_date": {"S": "2024-09-17"}, "customer_name": {"S": "Quincy Baker"}, "email": {"S": "quincy.baker@example.com"}}}},
+        {"PutRequest": {"Item": {"customer_id": {"N": "18"}, "registration_date": {"S": "2024-09-18"}, "customer_name": {"S": "Rachel Carter"}, "email": {"S": "rachel.carter@example.com"}}}},
+        {"PutRequest": {"Item": {"customer_id": {"N": "19"}, "registration_date": {"S": "2024-09-19"}, "customer_name": {"S": "Samuel Evans"}, "email": {"S": "samuel.evans@example.com"}}}},
+        {"PutRequest": {"Item": {"customer_id": {"N": "20"}, "registration_date": {"S": "2024-09-20"}, "customer_name": {"S": "Tina Foster"}, "email": {"S": "tina.foster@example.com"}}}},
+        {"PutRequest": {"Item": {"customer_id": {"N": "21"}, "registration_date": {"S": "2024-09-21"}, "customer_name": {"S": "Ulysses Gray"}, "email": {"S": "ulysses.gray@example.com"}}}}
+    ]
+}

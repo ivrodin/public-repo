@@ -1,0 +1,21 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: CloudFormation template to create an EC2 instance with specified configurations.
+
+Resources:
+  EC2Instance:
+    Type: AWS::EC2::Instance
+    Properties:
+      InstanceType: t2.micro
+      ImageId: ami-0e0f60b697bbe7873
+      KeyName: EC2_PostgreSQL_Server_Ivan_Rodin
+      IamInstanceProfile: AWS_EC2_full_access_S3
+      SecurityGroupIds:
+        - sg-0fbf42a5fb4bc1004
+      BlockDeviceMappings:
+        - DeviceName: /dev/sdb
+          Ebs:
+            VolumeSize: 10
+            VolumeType: gp3
+      Tags:
+      - Key: Name
+        Value: EC2_from_Stack_Rodin

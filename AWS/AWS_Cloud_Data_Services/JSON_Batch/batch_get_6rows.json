@@ -1,0 +1,30 @@
+{
+    "rodin_customers_cli_table": {
+        "Keys": [
+            {
+                "customer_id": {"N": "1"},
+                "registration_date": {"S": "2024-09-01"}
+            },
+            {
+                "customer_id": {"N": "2"},
+                "registration_date": {"S": "2024-09-02"}
+            },
+            {
+                "customer_id": {"N": "3"},
+                "registration_date": {"S": "2024-09-03"}
+            },
+            {
+                "customer_id": {"N": "4"},
+                "registration_date": {"S": "2024-09-04"}
+            },
+            {
+                "customer_id": {"N": "5"},
+                "registration_date": {"S": "2024-09-05"}
+            },
+            {
+                "customer_id": {"N": "6"},
+                "registration_date": {"S": "2024-09-06"}
+            }
+        ]
+    }
+}
